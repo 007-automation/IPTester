@@ -64,7 +64,7 @@
 # 安装 .NET 8.0 SDK
 # https://dotnet.microsoft.com/download/dotnet/8.0
 
-git clone https://github.com/YOUR_USERNAME/IPTester.git
+git clone https://github.com/007-automation/IPTester.git
 cd IPTester
 dotnet build -c Release
 # 输出: bin/Release/net8.0-windows/IPTester.exe
