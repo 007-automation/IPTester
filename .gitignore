@@ -1,0 +1,23 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.vsidx
+*.futdcache
+.vs/
+*.pdb
+*.deps.json
+*.runtimeconfig.json
+apphost.exe
+
+# IDE
+*.slnx/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
